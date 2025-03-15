@@ -1,218 +1,5 @@
 #EXTM3U url-tvg="http://epg.one/epg2.xml.gz,https://iptvx.one/EPG,https://github.com/matthuisman/i.mjh.nz/raw/master/SamsungTVPlus/us.xml.gz"
 
-#EXTINF:-1 group-title="РОССИЯ(VPN)" ,Первый канал Евразия
-https://1tvkz-stream.daitsuna.net/1tvkz/1tvkz/1tvkz/1tvkz_720/chunks.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал HD
-https://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/983.png",Первый канал (+4)
-http://edge4.1internet.tv/dash-live12/streams/1tv-orbit-plus-4/1tv-orbit-plus-4.mpd
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="https://cdn-static.ntv.ru/home/news/2023/20230511/kanal_io.jpg",Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 HD
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+1)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+2)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/2/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+3)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/3/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+4)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/4/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+5)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+6)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/6/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+7)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/7/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+8)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/8/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)", Россия 1 (+9)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/9/russia1-hd/index.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2001.png",НТВ HD
-https://cdn.ntv.ru/ntv0_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +1
-https://cdn.ntv.ru/ntv1/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2036.png",НТВ +2
-https://cdn.ntv.ru/ntv2/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2964.png",НТВ +4
-https://cdn.ntv.ru/ntv4/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/3028.png",НТВ +7
-https://cdn.ntv.ru/ntv7/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/2041.png",НТВ Хит
-https://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/1754.png",НТВ Сериал
-https://cdn.ntv.ru/th_serial/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/1753.png",НТВ Право
-https://cdn.ntv.ru/th_pravo/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="РОССИЯ(VPN)" tvg-logo="http://epg.it999.ru/img/1755.png",НТВ Стиль
-https://cdn.ntv.ru/th_style/tracks-v1a1/playlist.m3u8
-
-
-
-
-#EXTINF:-1 group-title="Селектел (VPN)" ,Первый канал
-http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Первый канал HD
-http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,РЕН ТВ HD
-http://92.53.64.197:5050/Rentv_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Россия 1
-http://92.53.64.197:5050/Rossiya_1/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ТНТ
-http://92.53.64.197:5050/TNT/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,НТВ
-http://92.53.64.197:5050/NTV/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,НТВ HD
-http://92.53.64.197:5050/NTV_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ТНТ HD
-http://92.53.64.197:5050/TNT_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,НТВ СЕРИАЛ
-http://92.53.64.197:5050/ntv_serial_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Россия 24
-http://92.53.64.197:5050/Russia_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,RTG
-http://92.53.64.197:5050/rtg/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,RTG HD
-http://92.53.64.197:5050/rtg_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,IPTV Play Fantastica
-http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,UZHASTIK
-http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,PAMYAT
-http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,PROMO
-http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Дом Кино
-http://92.53.64.197:5050/dom_kino/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Дом Кино Премиум HD
-http://92.53.64.197:5050/dom_kino_premium_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Русский Бестселлер
-http://92.53.64.197:5050/russkiy_bestseller/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Белрос
-http://92.53.64.197:5050/belros/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Ратник
-http://92.53.64.197:5050/ratnik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" tvg-id="solovjinypomiot",Соловьев
-http://92.53.64.197:5050/Solovyov_live/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Известия
-http://92.53.64.197:5050/Izvestiya_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,360 HD
-http://92.53.64.197:5050/360_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,360 Новости
-http://92.53.64.197:5050/360_novosti_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Мир 24
-http://92.53.64.197:5050/Mir_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Дума тв
-http://92.53.64.197:5050/duma_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Крым 24
-http://92.53.64.197:5050/Krym_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Восток 24
-http://92.53.64.197:5050/Vostok_24/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Луганск 24
-http://92.53.64.197:5050/Luhansk_24_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Республиканский
-http://92.53.64.197:5050/1_respublikanskiy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Оплот
-http://92.53.64.197:5050/oplot_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Оплот 2
-http://92.53.64.197:5050/oplot_2/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Юнион
-http://92.53.64.197:5050/union/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,6 ТВ Горловка
-http://92.53.64.197:5050/6tv_horlovka/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Таврия
-http://92.53.64.197:5050/tavriya_kherson/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Первый Крымский
-http://92.53.64.197:5050/perviy_krimskiy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ТНР
-http://92.53.64.197:5050/tnr/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Приднестровье
-http://92.53.64.197:5050/tsv_pridnestrovye/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Сочи live
-http://92.53.64.197:5050/sochi_live_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Красная Линия
-http://92.53.64.197:5050/krasnaya_liniya/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Санкт-Петербург
-http://92.53.64.197:5050/sankt-peterburg_HD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,8 Канал
-http://92.53.64.197:5050/8_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,RTD HD
-http://92.53.64.197:5050/RTD/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Е
-http://92.53.64.197:5050/e_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ОТР
-http://92.53.64.197:5050/otr/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ЧЕ
-http://92.53.64.197:5050/che/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,СТС Love
-http://92.53.64.197:5050/ctc_love/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Домашний
-http://92.53.64.197:5050/domashniy/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Домашний HD
-http://92.53.64.197:5050/domashniy_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Mир
-http://92.53.64.197:5050/Mir/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Пятница
-http://92.53.64.197:5050/pyatnica/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Пятница HD
-http://92.53.64.197:5050/pyatnica_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Пятый
-http://92.53.64.197:5050/pyatiy_kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,РБК
-http://92.53.64.197:5050/RBK/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Новороссия
-http://92.53.64.197:5050/novorossiya_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,За ТВ
-http://92.53.64.197:5050/za_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Ю
-http://92.53.64.197:5050/yu/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Звезда HD
-http://92.53.64.197:5050/Zvezda/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Суббота
-http://92.53.64.197:5050/subbota_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Спас
-http://92.53.64.197:5050/spas/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,СТС
-http://92.53.64.197:5050/sts/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,СТС HD
-http://92.53.64.197:5050/sts_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ТВ3
-http://92.53.64.197:5050/tv3/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,ТВЦ
-http://92.53.64.197:5050/tvc/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Bridge TV
-http://92.53.64.197:5050/bridge_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Bridge Classic
-http://92.53.64.197:5050/bridge_tv_classic/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Карусель
-http://92.53.64.197:5050/karusel/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Мульт
-http://92.53.64.197:5050/mult/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Смайлик ТВ HD
-http://92.53.64.197:5050/smaylik_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Солнце
-http://92.53.64.197:5050/sonce/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ
-http://92.53.64.197:5050/match_tv/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Матч ТВ HD
-http://92.53.64.197:5050/match_tv_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Футбол
-http://92.53.64.197:5050/football/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт
-http://92.53.64.197:5050/start/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Старт Триумф
-http://92.53.64.197:5050/start_triumf_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",УДАР
-http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Red Bull TV
-http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Sport
-http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
-
-
-
 #EXTINF:-1 105" catchup="default" group-title="Lime (VPN 🇷🇺)", Первый канал
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0
 https://mhd128.iptv2022.com/p/49mZDFJRmpdMCRWvDFUHPw,1742072402/streaming/1kanalott/324/1/tracks-v5a1/mono.m3u8
@@ -2033,6 +1820,213 @@ https://mhd128.iptv2022.com/p/bam0OSpvUr_170BTOB9_ZQ,1742072425/streaming/top-se
 https://mhd128.iptv2022.com/p/HM6Vt7YbNitP7-Ju15KAEw,1742072425/streaming/taina-galaxy-cp/324/1/index.m3u8
 
 
+
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/25VcB58T/auto-x2-1.jpg",🔺 INFO 🔺Посмотри!!!
+https://small.fileditchstuff.me/s16/GICICSAOHtplVtVKlcb.mp4
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/3rkRjpjC/photo-2024-01-14-15-41-50.jpg",CHD-TV RU Rock HD
+http://194.26.229.213/chdtv_ru_rock/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MHNdgRXj/photo-2024-01-14-15-42-03.jpg",CHD-TV Rock
+http://194.26.229.213/chdtv_rock/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/RCgvJhdQ/image.png",СоюзМультфильм
+http://194.26.229.213/souzmultfilm/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/BvqS8HVV/1.png",Чип и Дейл
+http://194.26.229.213/chip-n-dale-rescue-rangers/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/sunsetmusicicon.png",Sunset Music
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/2.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/sunsetspaceicon.png" ,Sunset Space
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/3.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/sunsetkidsicon.png" ,Sunset Kids
+https://stream.sunset-media.org:443/AfBrazXsUK/J9hGT3vYuv/5.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/fantasticpic.png" ,Sunset Fantastic
+https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/8.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://sunset-media.org/assets/img/serial.png" ,Sunset Serial
+https://stream.sunset-media.org/AfBrazXsUK/J9hGT3vYuv/9.m3u8
+#EXTINF:-1 group-title="TEST ⓵", TV1000 HD
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=fR3YgYqdplTGVMYA56DTJQ&e=1742495859&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵", TV1000 Action
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/TV1000_Action_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=y7n9V_dHFYYHtp7RHjvjMA&e=1742495911&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 новелла
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Novella_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=2ZgxAXejNwn3VpWugDjOYA&e=1742618293&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵",viju TV1000 romantica
+https://live-hls-viasat-secure-flus.cdnvideo.ru/viasat/Romantika_HD.smil/tracks-v1a1/mono.m3u8?filter.tracks=v1v2v3a1&md5=dGl6AFJnDNX9roNQ_jM59g&e=1743018185&hls_proxy_host=e2c000defa6aa845b219ba5ca0db8ad5
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/J4wRwcQn/i-TV-Cinema-Logo.png",ITV Cinema
+https://iptv.itv.uz/hls/live/t/UAcSEExX5UamlFqFOIaXIA/e/1767191403/4000/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.postimg.cc/MTbNhVZc/i-TV-Music-Logo.png",ITV Music
+https://iptv.itv.uz/hls/live/t/IDvfbmZ5Ibmqs0plMhNejg/e/1767191403/4001/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ФАНТАСТИКА HD
+http://92.53.64.197:5050/IPTVPLAYFANTASTIKA.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY ПАМЯТЬ HD
+http://92.53.64.197:5050/IPTVPLAYPAMYAT.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY УЖАСТИК HD
+http://92.53.64.197:5050/IPTVPLAYUZHASTIK.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY PROMO HD
+http://92.53.64.197:5050/IPTVPLAYPROMO.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="TEST ⓵",IPTVPLAY МультСказки HD
+http://92.53.64.197:5050/IPTVPLAYMultSkazki.tv/video.m3u8?token=m3VIth-Rou_bM1
+#EXTINF:-1 group-title="TEST ⓵",Поехали!
+https://cdn3.skygo.mn/live/disk1/Poehali/HLS-FTA/Poehali.m3u8
+#EXTINF:-1 group-title="TEST ⓵",HISTORY
+http://45.159.74.14:80/Channel_123/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ДИКАЯ РЫБАЛКА HD
+http://45.159.74.14:80/Channel_126/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ДИКАЯ ОХОТА HD
+http://45.159.74.14:80/Channel_127/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ОХОТНИК И РЫБОЛОВ
+http://45.159.74.14:80/Channel_124/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Nickelodeon
+http://45.159.74.14:80/Channel_114/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",CARTOONITO
+http://45.159.74.14:80/Channel_120/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",BRIDGE РУССКИЙ ХИТ
+http://45.159.74.14:80/Channel_115/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТНТ Music
+http://45.159.74.14:80/Channel_122/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV live
+http://45.159.74.14:80/Channel_117/manifest.m3u8 
+#EXTINF:-1 group-title="TEST ⓵" tvg-id="euronews-en",Euronews
+http://45.159.74.14:80/Channel_119/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",ТВ3
+http://45.159.74.14:80/Channel_121/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",НСТ
+http://45.159.74.14:80/Channel_125/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",AMEDIA 1
+http://45.159.74.14:80/Channel_128/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",FAST SPORTS
+http://45.159.74.14:80/Channel_131/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵",KHL
+http://45.159.74.14:80/Channel_113/manifest.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://cvy.okis.ru/file/cvy/9.gif",Релакс
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 group-title="TEST ⓵",OstWest
+http://95.67.12.82:9077
+#EXTINF:-1 group-title="TEST ⓵",Continent E
+http://95.67.12.82:9083
+#EXTINF:-1 group-title="TEST ⓵",Trace Urban HD
+http://95.67.12.82:9068
+#EXTINF:-1 group-title="TEST ⓵",Trace Sport Stars HD
+http://95.67.12.82:9067
+#EXTINF:-1 group-title="TEST ⓵",InRating TV HD
+http://95.67.12.89:9034
+#EXTINF:-1 group-title="TEST ⓵",One Planet
+http://95.67.12.82:9088
+#EXTINF:-1 group-title="TEST ⓵",Gags Network HD
+http://95.67.12.82:9069
+#EXTINF:-1 group-title="TEST ⓵",Дорама
+http://95.67.12.82:9046
+#EXTINF:-1 group-title="TEST ⓵",TravelXp 4K
+http://95.67.12.82:9086/
+#EXTINF:-1 group-title="TEST ⓵",Love Nature
+http://95.67.12.82:9098
+#EXTINF:-1 group-title="TEST ⓵",Ретро
+http://194.158.218.123:8880/Retrotv/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Усадьба
+http://194.158.218.123:8880/Usadba/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",Здоровое ТВ
+http://194.158.218.123:8880/ZdorovoeTV/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",MTV
+http://fl5.moveonjoy.com/MTV/index.m3u8
+#EXTINF:-1 group-title="TEST ⓵",CGTN Русский
+https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802_hd.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://bem-media.de/wp-content/uploads/Kulinar.png",Кулинар ТВ
+http://api.alpaca.t62a.com/hls/9110/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://i.ytimg.com/an/23MIFU9IMsNtE2K6FfBBCQ/featured_channel.jpg",Russischer Jahrmarkt
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://meineinkauf.ch/fileadmin/_processed_/0/9/csm_44035_KaufBei_2018_b95f89bcc7.png",Kaufbei TV
+http://api.alpaca.t62a.com/hls/9112/stream0.m3u8
+#EXTINF:-1 group-title="TEST ⓵",4K travel 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/1967b0de-bf90-4339-a563-a5d06bba32ed/2.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://ottpink.network/picons/loupe4k.png",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 group-title="TEST ⓵"  tvg-id="fashion-one-4k" tvg-logo="http://epg.it999.ru/img/2748.png",Fashion TV UHD
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="TEST ⓵" tvg-logo="https://d1w9tvfspbvyah.cloudfront.net/wp-content/uploads/2020/06/logo-new-big.png",IMPACT! Wrestling
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://194.26.229.4/live/pda.png",OnlineTV
+http://185.221.213.254:8080/Okko/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Amedia Premium HD
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Известия
+http://195.18.23.20:8000/play/51/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Курай ТВ
+http://195.18.23.20:8000/play/207/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч Премьер
+http://195.18.23.20:8000/play/88/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матч HD
+https://bl.video.matchtv.ru/media/playlist/free_d46d0cf1712c0542ec7fd4f0808f600a_hd/17_89756005/1080/e6bef86de8a133cd7b27deb040758a00/4796141934.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Матур ТВ
+http://195.18.23.20:8000/play/6/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Салям
+http://195.18.23.20:8000/play/9/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Живи
+http://195.18.23.20:8000/play/10/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Бобёр
+http://195.18.23.20:8000/play/1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Тамыр
+http://195.18.23.20:8000/play/2/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Сапфир
+https://132544.edgevideo.ru/streams/132544_858950/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Видеокассета VHS
+https://132544.edgevideo.ru/streams/132544_806129/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)", Киномир видеокассеты
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/7LZXRqKb/2025-01-11-164612708.png",Дембель неизбежен
+https://132544.edgevideo.ru/streams/132544_730983/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Viva HD
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",TVMChannel
+http://cdn-01.bonus-tv.ru:80/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",8 канал
+http://cdn-01.bonus-tv.ru:80/8kanal/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Калейдоскоп ТВ
+http://cdn-01.bonus-tv.ru:80/Kaleidoskop_edge/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Крик-ТВ
+http://cdn-01.bonus-tv.ru:80/kriktv_edge/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Просвещение
+http://cdn-01.bonus-tv.ru:80/prosveschenie_edge/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Вместе-РФ
+http://cdn-01.bonus-tv.ru:80/vmesterf/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Arirang Korea
+https://cdn-01.bonus-tv.ru/arirang_edge/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",ТНТ MUSIC
+http://cdn-01.bonus-tv.ru/tntmusic/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Ю
+http://cdn-01.bonus-tv.ru/u/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",E TV
+http://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Russia Today
+http://cdn-01.bonus-tv.ru/RussiaToday/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",RT Doc
+http://cdn-01.bonus-tv.ru:80/rtdoc/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Kids TV 
+http://origin5.mediacdn.ru/live/kidstv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",9 ВОЛНА
+http://185.46.48.18:80/asvtv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Cinema
+http://185.46.48.18:80/cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",Осетия Иристон
+http://185.46.48.18:80/iriston/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)",МАТЧ ТВ
+http://185.46.48.18:80/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/HsvGnLG9/1.jpg",Dancehits 80
+http://dancehits80.denvs.ru:8080/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="http://epg.it999.ru/img2/5441.png",ТВОЕ ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://i.postimg.cc/m2FWVxW3/Background-Eraser-20230805-095630572.png",ТВОЕ ТВ HD - ЮМОР
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10150/logo_256_1655387037.png",Волга
+http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Volga/hls/1920x1080@4504/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10539/logo_256_1655389509.png",4 канал
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
+#EXTINF:-1 group-title="TEST (VPN)" tvg-logo="https://assets.iptv2022.com/static/channel/10459/logo_128_1652790001.png",Прима
+http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playlist.m3u8
 
 
 
@@ -4568,6 +4562,9 @@ http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
 http://92.53.64.197:5050/okko_sport_hd/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Спорткомплекс 🏆",Dubai Sport
 http://92.53.64.197:5050/dubai_sports_2hd/video.m3u8?token=m3VIth-Rou_bM1
+
+
+
 
 
 
