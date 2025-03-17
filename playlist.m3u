@@ -6,8 +6,6 @@
 
 #EXTINF:-1 group-title="Селектел (VPN)" ,Первый канал
 http://92.53.64.197:5050/Perviy_Kanal/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="Селектел (VPN)" ,Первый канал HD
-http://92.53.64.197:5050/Perviy_Kanal_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,РЕН ТВ HD
 http://92.53.64.197:5050/Rentv_HD/video.m3u8?token=m3VIth-Rou_bM1
 #EXTINF:-1 group-title="Селектел (VPN)" ,Россия 1
